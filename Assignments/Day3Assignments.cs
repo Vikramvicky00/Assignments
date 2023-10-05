@@ -2,7 +2,7 @@
 
 namespace Assignments
 {
-    internal class Program
+    internal class Day3Assignments
     {
 
         static void Main(string[] args)
