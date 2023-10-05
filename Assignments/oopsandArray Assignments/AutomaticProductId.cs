@@ -72,7 +72,7 @@ namespace Assignments.oopsandArray_Assignments
             Console.WriteLine(automaticProductId2.price);
             Console.WriteLine(automaticProductId2.unitofMeasurement);
             Console.WriteLine(automaticProductId2.quantity);
-
+            Console.ReadLine();
 
 
         }
