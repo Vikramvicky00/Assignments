@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Assignments.oopsandArray_Assignments.AutomaticProductId</StartupObject>
+    <StartupObject>Assignments.interfaceAssignments.program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,6 +47,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Day3Assignments\Day3Assignments.cs" />
+    <Compile Include="interfaceAssignments\Customer.cs" />
+    <Compile Include="interfaceAssignments\IOperations.cs" />
+    <Compile Include="interfaceAssignments\Order.cs" />
+    <Compile Include="interfaceAssignments\Products.cs" />
+    <Compile Include="interfaceAssignments\program.cs" />
     <Compile Include="oopsandArray Assignments\ArrayoFProducts.cs" />
     <Compile Include="oopsandArray Assignments\AutomaticProductId.cs" />
     <Compile Include="oopsandArray Assignments\ObjectProducts.cs" />
