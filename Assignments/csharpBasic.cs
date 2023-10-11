@@ -2,7 +2,7 @@
 
 namespace Assignments
 {
-    internal class Day3Assignments
+    internal class csharpBasic
     {
 
         static void Main(string[] args)
@@ -96,7 +96,7 @@ namespace Assignments
             int days= Convert.ToInt32(Console.ReadLine());
             convertDays(days);
             Console.WriteLine("=======================================");
-
+            Console.ReadLine();
         }
 
 
