@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Assignments.interfaceAssignments.program</StartupObject>
+    <StartupObject>Assignments.csharpBasic</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,17 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Day3Assignments\Day3Assignments.cs" />
-    <Compile Include="interfaceAssignments\Customer.cs" />
-    <Compile Include="interfaceAssignments\IOperations.cs" />
-    <Compile Include="interfaceAssignments\Order.cs" />
-    <Compile Include="interfaceAssignments\Products.cs" />
-    <Compile Include="interfaceAssignments\program.cs" />
-    <Compile Include="oopsandArray Assignments\ArrayoFProducts.cs" />
-    <Compile Include="oopsandArray Assignments\AutomaticProductId.cs" />
-    <Compile Include="oopsandArray Assignments\ObjectProducts.cs" />
-    <Compile Include="oopsandArray Assignments\Product.cs" />
-    <Compile Include="oopsandArray Assignments\SumofArrayElem.cs" />
+    <Compile Include="csharpBasic.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
